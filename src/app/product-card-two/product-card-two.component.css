@@ -1,0 +1,22 @@
+.product {
+    overflow: hidden;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+
+.header {
+    height: 200px;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+.body {
+    padding: 10px;
+}
+
+.body h4 {
+    margin-bottom: 3px;
+}

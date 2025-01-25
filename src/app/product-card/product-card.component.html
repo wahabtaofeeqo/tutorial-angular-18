@@ -1,0 +1,9 @@
+<div class="product" (click)="fire()">
+    <div class="header">
+        <img [src]="product().image" alt="">
+    </div>
+    <div class="body">
+        <h4>{{product().name}} </h4>
+        <p>${{product().price}} </p>
+    </div>
+</div>
